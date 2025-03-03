@@ -1,5 +1,3 @@
-discord
-
+discord.py
 together
-
-dotenv
+python-dotenv
