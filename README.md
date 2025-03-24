@@ -17,3 +17,11 @@
 - **Example:**
   ```bash
   /askrokkage_thread What is the difference between type errors and value errors?
+
+## Example usage
+
+### /askrokkage:
+![Image](https://github.com/user-attachments/assets/581dacfe-7549-4ae5-aeb1-3f46f710da88)
+
+### /askrokkage_thread:
+![Image](https://github.com/user-attachments/assets/9ba4b6f0-8221-4460-993f-78409ab75248)
