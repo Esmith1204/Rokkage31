@@ -14,6 +14,7 @@
 
 ### `/askrokkage_thread`
 - A slash command similar to `/askrokkage`, but responses will be generated within threads.
+- Private threads can also be created by selecting "private" in the slash command options.
 - **Example:**
   ```bash
   /askrokkage_thread What is the difference between type errors and value errors?
